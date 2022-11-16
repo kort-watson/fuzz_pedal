@@ -337,8 +337,23 @@ hr {
     border: 1px solid black;
     margin: 0px;
 }
+audio {
+text-align: right;
+margin-left: auto;
+margin-bottom: 12px;
+margin-right: 12px;
+color: red;
 
 
+}
+source {
+text-align: right;
+align-items: right;
+align-content: right;
+align-self: right;
+margin-left: 155px;
+
+}
 .footer-grid ul li a {
     color: black;
     font-family: 'Inter', sans-serif;
