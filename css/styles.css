@@ -304,6 +304,7 @@ img {
     display: flex;
     flex-direction: column;
     align-content: space-around;
+  
 
 }
 
@@ -389,8 +390,8 @@ a:hover {
 }
 
 iframe {
-    padding-bottom: 0px;
-    padding: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .bodytext {
@@ -399,7 +400,14 @@ iframe {
     margin-top: auto;
     margin-bottom: auto;
 }
+.pedals {
+    background-color: #212121;
+    margin-top: auto;
+margin-bottom: auto;
 
+
+
+}
 @media screen and (max-width: 1114px) {
 
     .whatthefuzz {
